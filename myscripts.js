@@ -101,22 +101,3 @@ buttons.forEach((button) => {
     playRound(playerSelection, getComputerChoice());
   });
 });
-
-
-
-
-
-
-
-
-/*------------------------------------------------------------------
-
-
-
-function game() {
-  //console.log(`Round ${i+1}:`);
-  let playerSelection = prompt("Rock, Paper, Scissors?","");
-  let computerSelection = getComputerChoice();
-  playRound(playerSelection, computerSelection);
-  //console.log(`\n\nYou won ${numberPlayerWins} times and lost to the computer ${numberComputerWins} times!`);
-}*/
